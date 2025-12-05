@@ -2,12 +2,11 @@ name: Build and Deploy Jekyll site
 
 on:
   push:
-    branches: [ main ]   # 你的主分支是 main 就不用改
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -15,7 +14,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'          # 用一个较新的 Ruby 版本
+          ruby-version: '3.2'
           bundler-cache: true
 
       - name: Install dependencies
@@ -43,3 +42,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
