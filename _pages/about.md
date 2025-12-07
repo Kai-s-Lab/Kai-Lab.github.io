@@ -10,8 +10,8 @@ profile:
   image_circular: true
   more_info: >
     <p>Ph.D. applicant in Organizational Psychology / Human Systems Engineering</p>
-    <p>18+ years in semiconductor supply chain & supplier development</p>
-    <p>Research: Mindful Leadership · Employee Well-being · High-stress workplace</p>
+    <p>18+ years in semiconductor supply chain management</p>
+    <p>Research: Leadership behavior · Emotion regulation · Technology-driven work systems</p>
     <p>Based in Arizona, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,8 +28,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a semiconductor supply chain professional with over 18 years of experience working in global, high-pressure technology environments. My industry background informs my doctoral research interests in Organizational Psychology and Human Systems Engineering. 
+Throughout my career, I have led supplier development, strategic sourcing, and multi-tier risk management across complex global supply networks. This work required close collaboration with R&D, engineering, quality, and operations teams under conditions of intense time pressure, uncertainty, and technological complexity. 
+These experiences motivate my academic interest in understanding how leadership and psychological mechanisms operate within complex, high-stress work systems. My research focuses on how leadership behaviors and emotion regulation processes shape employee well-being and sustainable performance in high-stress, technology-driven work systems, with the goal of reducing burnout and strengthening resilience. 
+I aim to bridge industry practice and behavioral science by translating real-world operational challenges into research that supports both organizational effectiveness and long-term human sustainability.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Leadership behavior and emotion regulation in complex, high-stress work systems  
+- Employee well-being, burnout reduction, and sustainable performance  
+- Human-centered system and workflow design in technology-driven organizations
